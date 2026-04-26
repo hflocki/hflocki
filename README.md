@@ -1,5 +1,7 @@
 # 💫 About Me:
-homeassistant for camper<br>hacs integration for camper<br>https://github.com/hflocki/geoweather
+homeassistant for camper<br>hacs integration for camper
+<br>https://github.com/hflocki/geoweather
+<br>https://github.com/hflocki/meteoalarm
 
 
 # 💻 Tech Stack:
