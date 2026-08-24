@@ -6,15 +6,34 @@ Willkommen! Ich entwickle Open-Source-Integrationen für **Home Assistant**, um 
 
 ### 📦 Camper Integrationen & Projekte
 
-<a href="https://github.com/hflocki/geoweather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hflocki&repo=geoweather&theme=dark" />
-</a>
-<a href="https://github.com/hflocki/meteoalarm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hflocki&repo=meteoalarm&theme=dark" />
-</a>
-<a href="https://github.com/hflocki/ble_gastank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hflocki&repo=ble_gastank&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/hflocki/geoweather">
+        <img src="https://raw.githubusercontent.com/hflocki/geoweather/main/logo/icon.png" width="100" alt="GeoWeather Logo"><br />
+        <b>GeoWeather</b>
+      </a>
+      <br />
+      <sub>Wetterdaten basierend auf Geolocation</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/hflocki/meteoalarm">
+        <img src="https://raw.githubusercontent.com/hflocki/meteoalarm/main/logo/icon.png" width="100" alt="Meteoalarm Logo"><br />
+        <b>Meteoalarm</b>
+      </a>
+      <br />
+      <sub>Unwetterwarnungen für Home Assistant</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/hflocki/ble_gastank">
+        <img src="https://raw.githubusercontent.com/hflocki/ble_gastank/main/logo/icon.png" width="100" alt="BLE Gastank Logo"><br />
+        <b>BLE Gastank</b>
+      </a>
+      <br />
+      <sub>Füllstandsmessung via Bluetooth LE</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -27,8 +46,3 @@ Willkommen! Ich entwickle Open-Source-Integrationen für **Home Assistant**, um 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-# 📊 Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hflocki&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</p>
