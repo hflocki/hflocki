@@ -1,5 +1,3 @@
-# 🚐 Camper & Offgrid Smart Home
-
 Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
 
 ---
