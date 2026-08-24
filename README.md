@@ -1,6 +1,6 @@
 # 🚐 Camper & Offgrid Smart Home
 
-Willkommen! Ich entwickle Open-Source-Integrationen für **Home Assistant**, um Wohnmobile und Offgrid-Systeme smarter zu machen.
+Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
 
 ---
 
