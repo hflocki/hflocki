@@ -1,28 +1,34 @@
-# 💫 About Me:
-homeassistant for camper<br>hacs integration for camper
-<br>https://github.com/hflocki/geoweather
-<br>https://github.com/hflocki/meteoalarm
-<br>https://github.com/hflocki/ble_gastank
+# 🚐 Camper & Offgrid Smart Home
 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hflocki&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hflocki&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hflocki&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hflocki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Willkommen! Ich entwickle Open-Source-Integrationen für **Home Assistant**, um Wohnmobile und Offgrid-Systeme smarter zu machen.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hflocki&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 📦 Camper Integrationen & Projekte
 
+<a href="https://github.com/hflocki/geoweather">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hflocki&repo=geoweather&theme=dark" />
+</a>
+<a href="https://github.com/hflocki/meteoalarm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hflocki&repo=meteoalarm&theme=dark" />
+</a>
+<a href="https://github.com/hflocki/ble_gastank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hflocki&repo=ble_gastank&theme=dark" />
+</a>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+### 🛠️ Tech Stack & Camper Protocols
 
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660099?style=for-the-badge&logo=mqtt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 📊 Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hflocki&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</p>
