@@ -30,6 +30,14 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
       <br />
       <sub>Füllstandsmessung via Bluetooth LE</sub>
     </td>
+      <td align="center" width="33%">
+      <a href="https://github.com/hflocki/wipro2ha">
+        <img src="https://raw.githubusercontent.com/hflocki/wipro2ha/main/logo/icon.png" width="100" alt="wipro2ha Logo"><br />
+        <b>wipro2ha</b>
+      </a>
+      <br />
+      <sub>Füllstandsmessung via Bluetooth LE</sub>
+    </td>
   </tr>
 </table>
 
