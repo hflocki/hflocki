@@ -6,7 +6,7 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/hflocki/geoweather">
         <img src="https://raw.githubusercontent.com/hflocki/geoweather/main/logo/icon.png" width="100" alt="GeoWeather Logo"><br />
         <b>GeoWeather</b>
@@ -14,7 +14,7 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
       <br />
       <sub>Wetterdaten basierend auf Geolocation</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/hflocki/meteoalarm">
         <img src="https://raw.githubusercontent.com/hflocki/meteoalarm/main/logo/icon.png" width="100" alt="Meteoalarm Logo"><br />
         <b>Meteoalarm</b>
@@ -22,7 +22,7 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
       <br />
       <sub>Unwetterwarnungen für Home Assistant</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/hflocki/ble_gastank">
         <img src="https://raw.githubusercontent.com/hflocki/ble_gastank/main/logo/icon.png" width="100" alt="BLE Gastank Logo"><br />
         <b>BLE Gastank</b>
@@ -30,7 +30,7 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
       <br />
       <sub>Füllstandsmessung via Bluetooth LE</sub>
     </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
       <a href="https://github.com/hflocki/wipro2ha">
         <img src="https://raw.githubusercontent.com/hflocki/wipro2ha/main/logo/icon.png" width="100" alt="wipro2ha Logo"><br />
         <b>wipro2ha</b>
