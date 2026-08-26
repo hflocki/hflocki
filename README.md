@@ -36,7 +36,7 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
         <b>wipro2ha</b>
       </a>
       <br />
-      <sub>Füllstandsmessung via Bluetooth LE</sub>
+      <sub>Thitronik Alarmanlage in HA</sub>
     </td>
   </tr>
 </table>
