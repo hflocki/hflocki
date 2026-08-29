@@ -51,8 +51,10 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
 ![MQTT](https://img.shields.io/badge/MQTT-660099?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
 
 <a href="https://www.buymeacoffee.com/hflocki" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60" width="217">
 </a>
----
+
