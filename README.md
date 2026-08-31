@@ -5,76 +5,80 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
 ### 📦 Camper Integrationen & Projekte für Homeassistant
 
 <table>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://github.com/hflocki/geoweather">
-        <img src="https://raw.githubusercontent.com/hflocki/geoweather/main/logo/icon.png" width="100" alt="GeoWeather Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/hflocki/geoweather">
-        <b>GeoWeather</b>
-      </a>
-      <br />
-      <sub>Wetterdaten basierend auf Geolocation</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://github.com/hflocki/meteoalarm">
-        <img src="https://raw.githubusercontent.com/hflocki/meteoalarm/main/logo/icon.png" width="100" alt="Meteoalarm Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/hflocki/meteoalarm">
-        <b>Meteoalarm</b>
-      </a>
-      <br />
-      <sub>Unwetterwarnungen</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://github.com/hflocki/ble_gastank">
-        <img src="https://raw.githubusercontent.com/hflocki/ble_gastank/main/logo/icon.png" width="100" alt="BLE Gastank Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/hflocki/ble_gastank">
-        <b>BLE Gastank</b>
-      </a>
-      <br />
-      <sub>Füllstandsmessung via Bluetooth LE</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://github.com/hflocki/wipro2ha">
-        <img src="https://raw.githubusercontent.com/hflocki/wipro2ha/main/logo/icon.png" width="100" alt="wipro2ha Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/hflocki/wipro2ha">
-        <b>wipro2ha</b>
-      </a>
-      <br />
-      <sub>Thitronik Alarmanlage in HA</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://github.com/hflocki/sensor_2_gps">
-        <img src="https://raw.githubusercontent.com/hflocki/sensor_2_gps/main/logo/icon.png" width="100" alt="Sensor 2 GPS Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/hflocki/sensor_2_gps">
-        <b>Sensor 2 GPS</b>
-      </a>
-      <br />
-      <sub>Device Tracker aus GPS-Sensoren</sub>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="center">Logo</th>
+      <th align="left">Name</th>
+      <th align="left">Beschreibung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="120">
+        <a href="https://github.com/hflocki/geoweather">
+          <img src="https://raw.githubusercontent.com/hflocki/geoweather/main/logo/icon.png" width="100" alt="GeoWeather Logo">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hflocki/geoweather">
+          <b>GeoWeather</b>
+        </a>
+      </td>
+      <td>Wetterdaten basierend auf Geolocation</td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <a href="https://github.com/hflocki/meteoalarm">
+          <img src="https://raw.githubusercontent.com/hflocki/meteoalarm/main/logo/icon.png" width="100" alt="Meteoalarm Logo">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hflocki/meteoalarm">
+          <b>Meteoalarm</b>
+        </a>
+      </td>
+      <td>Unwetterwarnungen</td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <a href="https://github.com/hflocki/ble_gastank">
+          <img src="https://raw.githubusercontent.com/hflocki/ble_gastank/main/logo/icon.png" width="100" alt="BLE Gastank Logo">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hflocki/ble_gastank">
+          <b>BLE Gastank</b>
+        </a>
+      </td>
+      <td>Füllstandsmessung via Bluetooth LE</td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <a href="https://github.com/hflocki/wipro2ha">
+          <img src="https://raw.githubusercontent.com/hflocki/wipro2ha/main/logo/icon.png" width="100" alt="wipro2ha Logo">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hflocki/wipro2ha">
+          <b>wipro2ha</b>
+        </a>
+      </td>
+      <td>Thitronik Alarmanlage in HA</td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <a href="https://github.com/hflocki/sensor_2_gps">
+          <img src="https://raw.githubusercontent.com/hflocki/sensor_2_gps/main/logo/icon.png" width="100" alt="Sensor 2 GPS Logo">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hflocki/sensor_2_gps">
+          <b>Sensor 2 GPS</b>
+        </a>
+      </td>
+      <td>Device Tracker aus GPS-Sensoren</td>
+    </tr>
+  </tbody>
 </table>
 
 ---
