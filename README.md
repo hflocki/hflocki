@@ -2,7 +2,7 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
 
 ---
 
-### 📦 Camper Integrationen & Projekte
+### 📦 Camper Integrationen & Projekte für Homeassistant
 
 <table>
   <tr>
@@ -20,7 +20,7 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
         <b>Meteoalarm</b>
       </a>
       <br />
-      <sub>Unwetterwarnungen für Home Assistant</sub>
+      <sub>Unwetterwarnungen </sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/hflocki/ble_gastank">
@@ -46,7 +46,7 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
         <b>Sensor 2 GPS</b>
       </a>
       <br />
-      <sub>Erzeugt Device Tracker aus GPS-Sensoren</sub>
+      <sub>Device Tracker aus GPS-Sensoren</sub>
     </td>
     <td align="center" width="25%"></td>
     <td align="center" width="25%"></td>
