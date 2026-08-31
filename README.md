@@ -6,33 +6,55 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="120">
       <a href="https://github.com/hflocki/geoweather">
-        <img src="https://raw.githubusercontent.com/hflocki/geoweather/main/logo/icon.png" width="100" alt="GeoWeather Logo"><br />
+        <img src="https://raw.githubusercontent.com/hflocki/geoweather/main/logo/icon.png" width="100" alt="GeoWeather Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/hflocki/geoweather">
         <b>GeoWeather</b>
       </a>
       <br />
       <sub>Wetterdaten basierend auf Geolocation</sub>
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" width="120">
       <a href="https://github.com/hflocki/meteoalarm">
-        <img src="https://raw.githubusercontent.com/hflocki/meteoalarm/main/logo/icon.png" width="100" alt="Meteoalarm Logo"><br />
+        <img src="https://raw.githubusercontent.com/hflocki/meteoalarm/main/logo/icon.png" width="100" alt="Meteoalarm Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/hflocki/meteoalarm">
         <b>Meteoalarm</b>
       </a>
       <br />
-      <sub>Unwetterwarnungen </sub>
+      <sub>Unwetterwarnungen</sub>
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" width="120">
       <a href="https://github.com/hflocki/ble_gastank">
-        <img src="https://raw.githubusercontent.com/hflocki/ble_gastank/main/logo/icon.png" width="100" alt="BLE Gastank Logo"><br />
+        <img src="https://raw.githubusercontent.com/hflocki/ble_gastank/main/logo/icon.png" width="100" alt="BLE Gastank Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/hflocki/ble_gastank">
         <b>BLE Gastank</b>
       </a>
       <br />
       <sub>Füllstandsmessung via Bluetooth LE</sub>
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" width="120">
       <a href="https://github.com/hflocki/wipro2ha">
-        <img src="https://raw.githubusercontent.com/hflocki/wipro2ha/main/logo/icon.png" width="100" alt="wipro2ha Logo"><br />
+        <img src="https://raw.githubusercontent.com/hflocki/wipro2ha/main/logo/icon.png" width="100" alt="wipro2ha Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/hflocki/wipro2ha">
         <b>wipro2ha</b>
       </a>
       <br />
@@ -40,17 +62,18 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="120">
       <a href="https://github.com/hflocki/sensor_2_gps">
-        <img src="https://raw.githubusercontent.com/hflocki/sensor_2_gps/main/logo/icon.png" width="100" alt="Sensor 2 GPS Logo"><br />
+        <img src="https://raw.githubusercontent.com/hflocki/sensor_2_gps/main/logo/icon.png" width="100" alt="Sensor 2 GPS Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/hflocki/sensor_2_gps">
         <b>Sensor 2 GPS</b>
       </a>
       <br />
       <sub>Device Tracker aus GPS-Sensoren</sub>
     </td>
-    <td align="center" width="25%"></td>
-    <td align="center" width="25%"></td>
-    <td align="center" width="25%"></td>
   </tr>
 </table>
 
