@@ -30,7 +30,7 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
       <br />
       <sub>Füllstandsmessung via Bluetooth LE</sub>
     </td>
-      <td align="center" width="25%">
+    <td align="center" width="25%">
       <a href="https://github.com/hflocki/wipro2ha">
         <img src="https://raw.githubusercontent.com/hflocki/wipro2ha/main/logo/icon.png" width="100" alt="wipro2ha Logo"><br />
         <b>wipro2ha</b>
@@ -38,6 +38,19 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
       <br />
       <sub>Thitronik Alarmanlage in HA</sub>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/hflocki/sensor_2_gps">
+        <img src="https://raw.githubusercontent.com/hflocki/sensor_2_gps/main/logo/icon.png" width="100" alt="Sensor 2 GPS Logo"><br />
+        <b>Sensor 2 GPS</b>
+      </a>
+      <br />
+      <sub>Erzeugt Device Tracker aus GPS-Sensoren</sub>
+    </td>
+    <td align="center" width="25%"></td>
+    <td align="center" width="25%"></td>
+    <td align="center" width="25%"></td>
   </tr>
 </table>
 
