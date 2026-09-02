@@ -72,7 +72,7 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
         </a>
       </td>
       <td>
-        <a href="https://github.com/hflocki/wipro2ha">
+        <a href="https://github.com/hflocki/sensor_2_gps">
           <b>Sensor 2 GPS</b>
         </a>
       </td>
