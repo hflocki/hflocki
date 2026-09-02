@@ -65,19 +65,7 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
       </td>
       <td>Thitronik Alarmanlage in HA</td>
     </tr>
-    <tr>
-      <td align="center" width="120">
-        <a href="https://github.com/hflocki/sensor_2_gps">
-          <img src="https://raw.githubusercontent.com/hflocki/sensor_2_gps/main/logo/icon.png" width="100" alt="Sensor 2 GPS Logo">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/hflocki/sensor_2_gps">
-          <b>Sensor 2 GPS</b>
-        </a>
-      </td>
-      <td>Device Tracker aus GPS-Sensoren</td>
-    </tr>
+    
   </tbody>
 </table>
 
