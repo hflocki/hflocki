@@ -65,7 +65,19 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
       </td>
       <td>Thitronik Alarmanlage in HA</td>
     </tr>
-    
+    <tr>
+      <td align="center" width="120">
+        <a href="https://github.com/hflocki/sensor2_gps">
+          <img src="https://raw.githubusercontent.com/hflocki/sensor2_gps/main/logo/icon.png" width="100" alt="wipro2ha Logo">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hflocki/wipro2ha">
+          <b>Sensor 2 GPS</b>
+        </a>
+      </td>
+      <td>GPS Tracker aus Sensordaten zb Teltonika RUT</td>
+    </tr>  
   </tbody>
 </table>
 
