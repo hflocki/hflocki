@@ -67,8 +67,8 @@ Meine Integrationen für **Home Assistant**, für Smarte-Wohnmobile.
     </tr>
     <tr>
       <td align="center" width="120">
-        <a href="https://github.com/hflocki/sensor2_gps">
-          <img src="https://raw.githubusercontent.com/hflocki/sensor2_gps/main/logo/icon.png" width="100" alt="wipro2ha Logo">
+        <a href="https://github.com/hflocki/sensor_2_gps">
+          <img src="https://raw.githubusercontent.com/hflocki/sensor_2_gps/main/logo/icon.png" width="100" alt="wipro2ha Logo">
         </a>
       </td>
       <td>
